@@ -1,7 +1,7 @@
 ﻿<#  
 Script name: SCCMChangeCollectionEvals.ps1
 Script Ver : 1.0
-Script home: https://github.com/hardymark
+Script home: https://github.com/hardymark/SCCM-ChangeCollectionEvals
 
 This script is the fast solution to an SCCM environment with too many collections set
 to Incremental Evaluation enabled. The script reads a list of collections with schedule
